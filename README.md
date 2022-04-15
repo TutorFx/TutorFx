@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @TutorFx
-- 👀 I’m interested in lern and improve my skills
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on innovative projects
-- 📫 You can reach me on contato@gabrielserejo.com
+- 👋 Olá, sou Gabriel Serejo.
+Sou um Programador front-end pleno com conhecimentos em backend também. Já trabalho na área a três anos e tenho também uma vasta experiência como animador gráfico.
+@TutorFx.
 
 <!---
 TutorFx/TutorFx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
